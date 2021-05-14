@@ -13,7 +13,7 @@ h1 {
   font-family: "Sacramento", cursive;
   font-size: 5.625rem;
   margin: 50px auto 0;
-  color: #66bfbf;
+  color: #aa96da;
 }
 
 h2 {
@@ -34,6 +34,7 @@ h3 {
 
 p {
   line-height: 2;
+  font-family: "Open Sans", sans-serif;
 }
 
 .pro {
@@ -59,12 +60,12 @@ p {
 .top-cloud {
   position: absolute;
   top: 50px;
-  right: 300px;
+  right: 250px;
 }
 .bottom-cloud {
   position: absolute;
-  bottom: 300px;
-  left: 300px;
+  bottom: 280px;
+  left: 250px;
 }
 
 .skill-row {
@@ -87,7 +88,7 @@ p {
 
 .profile-description {
   color: #40514e;
-  width: 30%;
+  width: 40%;
   margin: auto;
 }
 
@@ -99,6 +100,30 @@ hr {
   border-style: dotted none none none;
   border-color: #66bfbf;
   border-width: 7px;
+}
+
+.project-table {
+  width: 60%;
+  margin: 100px auto;
+  line-height: 1.5;
+  border-spacing: 25px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.training-table {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto;
+  line-height: 2;
+  font-family: "Open Sans", sans-serif;
+}
+
+.activities_list {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto;
+  line-height: 2;
+  font-family: "Open Sans", sans-serif;
 }
 
 .contact-me-description {
